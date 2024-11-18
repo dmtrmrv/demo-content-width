@@ -6,7 +6,7 @@ const setHeaderHeight = () => {
   const setHeaderHeightProperty = () => {
     document.body.style.setProperty(
       "--height--header",
-      `${getHeaderHeight()}px`
+      `${getHeaderHeight()}px`,
     );
   };
 
