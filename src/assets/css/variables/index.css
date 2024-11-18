@@ -38,8 +38,8 @@
   --color--link: var(--color--red);
 
   /* Typography Variables */
-  --font-family--sans-serif: "Montserrat", sans-serif;
-  --font-family--serif: "Lora", serif;
+  --font-family--sans-serif: 'Montserrat', sans-serif;
+  --font-family--serif: 'Lora', serif;
 
   /* Layout */
   --height--header: 7rem;
