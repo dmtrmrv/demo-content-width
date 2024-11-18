@@ -6,6 +6,6 @@
 }
 
 .site-header__inner {
-  max-inline-size: var(--width--content--max);
+  max-inline-size: var(--width--content--large);
   margin-inline: auto;
 }
