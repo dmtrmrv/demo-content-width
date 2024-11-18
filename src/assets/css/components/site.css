@@ -1,0 +1,19 @@
+.site {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto 1fr auto;
+  min-height: 100dvh;
+}
+
+.site__header {
+  position: sticky;
+  inset-block-start: 0;
+}
+
+.site__main {
+  margin-block-start: var(--space-2xl);
+}
+
+.site__footer {
+  margin-block-start: var(--space-2xl);
+}

@@ -1,0 +1,9 @@
+.media-element img {
+  border-radius: 4px;
+}
+
+.media-element__caption {
+  font-size: var(--step--1);
+  font-style: italic;
+  margin-block-start: var(--space-xs);
+}

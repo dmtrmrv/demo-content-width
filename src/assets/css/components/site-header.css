@@ -1,0 +1,11 @@
+.site-header {
+  background-color: var(--color--white);
+  border-block-end: 1px solid var(--color--light-gray);
+  padding-block: var(--space-s);
+  padding-inline: var(--width--site-gutter);
+}
+
+.site-header__inner {
+  max-inline-size: var(--width--content--max);
+  margin-inline: auto;
+}

@@ -1,0 +1,17 @@
+.content-flow > * + * {
+  margin-block-start: var(--flow-space);
+}
+
+.content-flow > * + :is(h1, h2, h3) {
+  margin-block-start: var(--flow-space--large);
+}
+
+.content-flow > * + .has-medium-flow-space,
+.content-flow > .has-medium-flow-space + * {
+  margin-block-start: var(--flow-space--medium);
+}
+
+.content-flow > * + .has-large-flow-space,
+.content-flow > .has-large-flow-space + * {
+  margin-block-start: var(--flow-space--large);
+}

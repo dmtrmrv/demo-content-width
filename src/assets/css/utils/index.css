@@ -1,0 +1,22 @@
+.intro {
+  font-size: var(--step-1);
+  font-style: italic;
+  font-weight: 300;
+}
+
+.main-inline-auto {
+  max-inline-size: var(--width--content);
+  margin-inline: auto;
+}
+
+.visually-hidden {
+  block-size: 1px;
+  border-width: 0;
+  clip: rect(0, 0, 0, 0);
+  inline-size: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+}

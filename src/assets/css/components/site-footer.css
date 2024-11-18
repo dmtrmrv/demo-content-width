@@ -1,0 +1,10 @@
+.site-footer {
+  border-block-start: 1px solid var(--color--light-gray);
+  padding-block: var(--space-m);
+  padding-inline: var(--width--site-gutter);
+  text-align: center;
+}
+
+.site-footer p {
+  font-size: var(--step--1);
+}
