@@ -6,7 +6,7 @@
   font-size: var(--step--1);
   gap: var(--space-xs);
   justify-content: flex-end;
-  list-style-type: "";
+  list-style-type: '';
   padding: 0;
 }
 

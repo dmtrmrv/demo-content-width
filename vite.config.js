@@ -1,3 +1,3 @@
 export default {
-  base: "/demo-content-width/",
+  base: '/demo-content-width/',
 };

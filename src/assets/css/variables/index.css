@@ -38,14 +38,16 @@
   --color--link: var(--color--red);
 
   /* Typography Variables */
-  --font-family--sans-serif: "Montserrat", sans-serif;
-  --font-family--serif: "Lora", serif;
+  --font-family--sans-serif: 'Montserrat', sans-serif;
+  --font-family--serif: 'Lora', serif;
 
   /* Layout */
   --height--header: 7rem;
+
   --width--content: 40rem;
-  --width--content--wide: 60rem;
-  --width--content--max: 90rem;
+  --width--content--medium: 60rem;
+  --width--content--large: 90rem;
+
   --width--site-gutter: var(--space-m);
 
   /* Flow Spacing */

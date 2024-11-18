@@ -7,3 +7,15 @@
   font-style: italic;
   margin-block-start: var(--space-xs);
 }
+
+.media-element.is-max-width-content {
+  & img {
+    inline-size: 100%;
+    max-inline-size: 100%;
+    border-radius: 0;
+  }
+
+  & .media-element__caption {
+    padding-inline: var(--space-xs);
+  }
+}

@@ -2,5 +2,5 @@
   display: grid;
   gap: var(--space-s);
   grid-template-columns: repeat(auto-fit, minmax(144px, 1fr));
-  list-style-type: "";
+  list-style-type: '';
 }

@@ -3,7 +3,7 @@ Variables – global variables that are used throughout the project.
 This layer is used to set up the project’s color palette, typography, spacing,
 and other values that are used throughout the project.
 */
-@import url("./src/assets/css/variables/index.css");
+@import url('./src/assets/css/variables/index.css');
 
 /**
 Defaults – styles that are applied to elements directly. No classes or IDs in
@@ -11,7 +11,7 @@ this layer. This layer is the most foundational and is used to set up the base
 styles for the project and serve as a starting point for all components and
 layouts.
 */
-@import url("./src/assets/css/defaults/index.css");
+@import url('./src/assets/css/defaults/index.css');
 
 /**
 Components – styles that are applied to classes and IDs. This layer is used
@@ -19,9 +19,9 @@ to style individual components and is where the majority of the project’s
 styling is done. However if the job is done correctly in the defaults layer,
 this layer should be relatively easy to style.
 */
-@import url("./src/assets/css/components/index.css");
+@import url('./src/assets/css/components/index.css');
 
 /**
 Utilities – single-purpose classes that are used to apply styles to elements.
 */
-@import url("./src/assets/css/utils/index.css");
+@import url('./src/assets/css/utils/index.css');
