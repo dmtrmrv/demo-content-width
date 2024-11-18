@@ -43,9 +43,11 @@
 
   /* Layout */
   --height--header: 7rem;
+
   --width--content: 40rem;
   --width--content--wide: 60rem;
   --width--content--max: 90rem;
+
   --width--site-gutter: var(--space-m);
 
   /* Flow Spacing */

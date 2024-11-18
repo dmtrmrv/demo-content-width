@@ -1,8 +1,0 @@
-.site-main {
-  padding-inline: var(--width--site-gutter);
-}
-
-.site-main__article {
-  max-inline-size: var(--width--content);
-  margin-inline: auto;
-}

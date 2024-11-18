@@ -1,0 +1,6 @@
+.entry-content > * {
+  --width--max: var(--width--content);
+
+  margin-inline: auto;
+  max-inline-size: min(100% - var(--width--site-gutter) * 2, var(--width--max));
+}
