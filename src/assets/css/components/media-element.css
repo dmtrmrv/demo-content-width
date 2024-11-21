@@ -16,6 +16,6 @@
   }
 
   & .media-element__caption {
-    padding-inline: var(--space-xs);
+    padding-inline: var(--width--site-gutter);
   }
 }
