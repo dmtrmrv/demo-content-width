@@ -41,6 +41,11 @@
   --font-family--sans-serif: 'Montserrat', sans-serif;
   --font-family--serif: 'Lora', serif;
 
+  /* Flow Space */
+  --flow-space: var(--space-s);
+  --flow-space--medium: var(--space-xl);
+  --flow-space--large: var(--space-2xl);
+
   /* Layout */
   --height--header: 7rem;
 
@@ -49,15 +54,4 @@
   --width--content--large: 90rem;
 
   --width--site-gutter: var(--space-m);
-
-  /* Flow Spacing */
-  --flow-space: var(--space-s);
-  --flow-space--medium: var(--space-xl);
-  --flow-space--large: var(--space-2xl);
-
-  /* Shadows */
-  --shadow-color: 0deg 0% 72%;
-  --shadow-elevation-low: 0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.22),
-    0.4px 0.8px 1px -1.2px hsl(var(--shadow-color) / 0.22),
-    0.8px 1.7px 2.1px -2.5px hsl(var(--shadow-color) / 0.22);
 }
