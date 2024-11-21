@@ -13,6 +13,6 @@
   --width--max: var(--width--content--large);
 }
 
-.entry-content > .is-max-width-content {
-  --width--max: none;
+.entry-content > .is-full-width-content {
+  max-inline-size: none
 }
