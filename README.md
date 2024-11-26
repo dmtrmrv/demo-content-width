@@ -3,7 +3,7 @@
 - <a href="https://www.youtube.com/watch?v=MQFg2bdSY4Q" target="_blank">Watch the video</a>
 - <a href="https://dmtrmrv.github.io/demo-content-width/" target="_blank">View the demo</a>
 
-In this video, we’ll tackle a common CSS challenge: extending elements outside their container without breaking the layout. I’ll show you a simple, reusable approach that avoids messy calculations and leverages the powerful min() function to handle responsive widths.
+In this video, we’ll tackle a common CSS challenge: extending elements outside their container without breaking the layout. I’ll show you a simple, reusable approach that avoids messy calculations and leverages the powerful `min()` function to handle responsive widths.
 
 We’ll walk through the code step-by-step, using CSS custom properties and utility classes to manage content width and site gutters cleanly. By the end, you’ll have a solid pattern for full-width components that works on any project.
 
